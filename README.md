@@ -8,3 +8,6 @@
 PutraMnr/PutraMnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ di sini saya kasi tipe ngrok klien
+_santaii dulu boss
+_buka aja disklip nya
